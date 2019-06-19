@@ -1,8 +1,0 @@
-InterfaceName: 'items'
-Description: 'My Leads'
-APIDoc: ''
-Interfaces: 'pagination,status'
-RequiredScopes: ''
-AdditionalParameters:
-Method: ''
-

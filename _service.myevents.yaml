@@ -1,7 +1,0 @@
-InterfaceName: 'status'
-Description: 'My Events'
-APIDoc: ''
-Interfaces: 'pagination,daterange,status'
-RequiredScopes: ''
-AdditionalParameters:
-Method: ''
